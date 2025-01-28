@@ -1,6 +1,7 @@
 <properties>
     <property id="appVersion" type="string">1.0.0</property>
     <property id="apiKey" type="string">***REMOVED***</property>
+    <property id="refreshTime" type="number">30</property>
     <property id="favorite1Name" type="string">To Work</property>
     <property id="favorite1Region" type="number">3</property>
     <property id="favorite1StopID" type="number">304244</property>

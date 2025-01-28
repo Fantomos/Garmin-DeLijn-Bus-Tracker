@@ -3,6 +3,8 @@
     <string id="AppVersionTitle">Version</string>
     <string id="ApiKeyTitle">API Key</string>
 
+    <string id="RefreshTitle">Refresh Time (s)</string>
+    
     <string id="FavGroup1">Favorite 1</string>
     <string id="FavGroup1Desc">Favorite 1</string>
     <string id="FavGroup2">Favorite 2</string>

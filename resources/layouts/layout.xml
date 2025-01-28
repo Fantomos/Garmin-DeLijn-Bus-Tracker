@@ -1,4 +1,5 @@
 <layout id="MainLayout">
+    <bitmap id="refresh" x="85%" y="25%" filename="../drawables/refresh.png" />
     <text-area id="favName1" text="" x="0%" y="10%" width="100%" height="20%" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" font="Gfx.FONT_MEDIUM"/>
     <text-area id="favCountdown1_1" text="--" x="10%" y="30%" width="25%" height="20%" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" font="Gfx.FONT_MEDIUM"/>
     <text-area text="/" x="30%" y="30%" width="10%" height="20%" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_LT_GRAY" font="Gfx.FONT_MEDIUM"/>

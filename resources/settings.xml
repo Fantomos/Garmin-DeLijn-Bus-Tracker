@@ -6,6 +6,10 @@
         <settingConfig type="alphaNumeric" required="true"/>
     </setting>
 
+    <setting propertyKey="@Properties.refreshTime" title="@Strings.RefreshTitle">
+        <settingConfig type="numeric" required="true"/>
+    </setting>
+
     <group id="favorite1" title="@Strings.FavGroup1" description="@Strings.FavGroup1Desc">
         <setting propertyKey="@Properties.favorite1Name" title="@Strings.FavName">
             <settingConfig type="alphaNumeric" required="true"/>

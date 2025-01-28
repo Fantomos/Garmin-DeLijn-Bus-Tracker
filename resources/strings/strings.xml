@@ -1,0 +1,21 @@
+<strings>
+    <string id="AppName">DeLijn Timetable</string>
+    <string id="AppVersionTitle">Version</string>
+    <string id="ApiKeyTitle">API Key</string>
+
+    <string id="FavGroup1">Favorite 1</string>
+    <string id="FavGroup1Desc">Favorite 1</string>
+    <string id="FavGroup2">Favorite 2</string>
+    <string id="FavGroup2Desc">Favorite 2</string>
+
+    <string id="FavName">Name</string>
+    <string id="FavRegion">Region</string>
+    <string id="FavStopID">Stop ID</string>
+    <string id="FavLineID">Line ID</string>
+
+    <string id="Region1">A</string>
+    <string id="Region2">B</string>
+    <string id="Region3">C</string>
+    <string id="Region4">D</string>
+    <string id="Region5">E</string>
+</strings>

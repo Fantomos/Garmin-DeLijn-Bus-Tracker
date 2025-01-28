@@ -1,0 +1,52 @@
+<settings>
+    <setting propertyKey="@Properties.appVersion" title="@Strings.AppVersionTitle">
+        <settingConfig type="alphaNumeric" readonly="true"/>
+    </setting>
+    <setting propertyKey="@Properties.apiKey" title="@Strings.ApiKeyTitle">
+        <settingConfig type="alphaNumeric" required="true"/>
+    </setting>
+
+    <group id="favorite1" title="@Strings.FavGroup1" description="@Strings.FavGroup1Desc">
+        <setting propertyKey="@Properties.favorite1Name" title="@Strings.FavName">
+            <settingConfig type="alphaNumeric" required="true"/>
+        </setting>
+        <setting propertyKey="@Properties.favorite1Region" title="@Strings.FavRegion">
+            <settingConfig type="list"  required="true">
+                <listEntry value="0">@Strings.Region1</listEntry>
+                <listEntry value="1">@Strings.Region2</listEntry>
+                <listEntry value="3">@Strings.Region3</listEntry>
+                <listEntry value="2">@Strings.Region4</listEntry>
+                <listEntry value="4">@Strings.Region5</listEntry>
+            </settingConfig>
+        </setting>
+
+        <setting propertyKey="@Properties.favorite1StopID" title="@Strings.FavStopID">
+            <settingConfig type="numeric" required="true"/>
+        </setting>
+        <setting propertyKey="@Properties.favorite1LineID" title="@Strings.FavLineID">
+            <settingConfig type="numeric" required="true"/>
+        </setting>
+    </group>
+
+
+    <group id="favorite2" title="@Strings.FavGroup2" description="@Strings.FavGroup2Desc">
+        <setting propertyKey="@Properties.favorite2Name" title="@Strings.FavName">
+            <settingConfig type="alphaNumeric" required="true"/>
+        </setting>
+        <setting propertyKey="@Properties.favorite2Region" title="@Strings.FavRegion">
+            <settingConfig type="list"  required="true">
+                <listEntry value="0">@Strings.Region1</listEntry>
+                <listEntry value="1">@Strings.Region2</listEntry>
+                <listEntry value="3">@Strings.Region3</listEntry>
+                <listEntry value="2">@Strings.Region4</listEntry>
+                <listEntry value="4">@Strings.Region5</listEntry>
+            </settingConfig>
+        </setting>
+        <setting propertyKey="@Properties.favorite2StopID" title="@Strings.FavStopID">
+            <settingConfig type="numeric" required="true"/>
+        </setting>
+        <setting propertyKey="@Properties.favorite2LineID" title="@Strings.FavLineID">
+            <settingConfig type="numeric" required="true"/>
+        </setting>
+    </group>
+</settings>

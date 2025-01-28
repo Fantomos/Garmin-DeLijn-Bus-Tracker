@@ -15,9 +15,9 @@
     <string id="FavStopID">Stop ID</string>
     <string id="FavLineID">Line ID</string>
 
-    <string id="Region1">A</string>
-    <string id="Region2">B</string>
-    <string id="Region3">C</string>
-    <string id="Region4">D</string>
-    <string id="Region5">E</string>
+    <string id="Region1">Antwerp</string>
+    <string id="Region2">East Flanders</string>
+    <string id="Region3">Flemish Brabant</string>
+    <string id="Region4">Limburg</string>
+    <string id="Region5">West Flanders</string>
 </strings>

@@ -16,11 +16,11 @@
         </setting>
         <setting propertyKey="@Properties.favorite1Region" title="@Strings.FavRegion">
             <settingConfig type="list"  required="true">
-                <listEntry value="0">@Strings.Region1</listEntry>
-                <listEntry value="1">@Strings.Region2</listEntry>
+                <listEntry value="1">@Strings.Region1</listEntry>
+                <listEntry value="2">@Strings.Region2</listEntry>
                 <listEntry value="3">@Strings.Region3</listEntry>
-                <listEntry value="2">@Strings.Region4</listEntry>
-                <listEntry value="4">@Strings.Region5</listEntry>
+                <listEntry value="4">@Strings.Region4</listEntry>
+                <listEntry value="5">@Strings.Region5</listEntry>
             </settingConfig>
         </setting>
 

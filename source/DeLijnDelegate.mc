@@ -99,6 +99,11 @@ class DeLijnDelegate extends WatchUi.BehaviorDelegate {
         if (report["lijnnummer"] == _request[0]["line"]) {
           var stopTime = _parseDate(report["real-timeTijdstip"]);
           var stopStaticTime = _parseDate(report["dienstregelingTijdstip"]);
+          var predictionStatus = report["predictionStatussen"];
+
+          if(!(predictionStatus instanceof Array) || predictionStatus.indexOf("GESCHRAPT") != -1) {
+            continue;
+          }
 
           if(stopTime == null) {
             stopTime = stopStaticTime;
@@ -127,7 +132,7 @@ class DeLijnDelegate extends WatchUi.BehaviorDelegate {
           }
         }
       }
-      
+
       _notify.invoke(_timetable);
     }
   }
@@ -143,7 +148,12 @@ class DeLijnDelegate extends WatchUi.BehaviorDelegate {
         if (report["lijnnummer"] == _request[1]["line"]) {
           var stopTime = _parseDate(report["real-timeTijdstip"]);
           var stopStaticTime = _parseDate(report["dienstregelingTijdstip"]);
+          var predictionStatus = report["predictionStatussen"];
 
+          if(!(predictionStatus instanceof Array) || predictionStatus.indexOf("GESCHRAPT") != -1) {
+            continue;
+          }
+          
           if(stopTime == null) {
             stopTime = stopStaticTime;
             _timetable[1]["data"][index]["status"] = "NO_TIME";

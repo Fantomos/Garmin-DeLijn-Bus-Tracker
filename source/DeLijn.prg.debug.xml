@@ -2,157 +2,200 @@
 <debugInfo>
     <manifest filename="E:\Doc\GarminDelijn\DeLijn\manifest.xml"/>
     <pcToLineNum>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="1" lineNum="8" parent="globals/DeLijnDelegate" pc="268435457" symbol="&lt;init&gt;"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="1" lineNum="11" parent="globals/DeLijnDelegate" pc="268435475" symbol="&lt;init&gt;"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="1" lineNum="12" parent="globals/DeLijnDelegate" pc="268435512" symbol="&lt;init&gt;"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="1" lineNum="22" parent="globals/DeLijnDelegate" pc="268435656" symbol="&lt;init&gt;"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnApp.mc" id="2" lineNum="27" parent="globals" pc="268435943" symbol="getApp"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnApp.mc" id="2" lineNum="28" parent="globals" pc="268435953" symbol="getApp"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="3" lineNum="8" parent="globals/DeLijnView" pc="268435969" symbol="&lt;init&gt;"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="3" lineNum="10" parent="globals/DeLijnView" pc="268435987" symbol="&lt;init&gt;"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="3" lineNum="11" parent="globals/DeLijnView" pc="268436001" symbol="&lt;init&gt;"/>
-        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="4" lineNum="7" parent="globals/Rez" pc="268436096" symbol="&lt;init&gt;"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnApp.mc" id="5" lineNum="5" parent="globals/DeLijnApp" pc="268436120" symbol="&lt;init&gt;"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="6" lineNum="55" parent="globals/DeLijnDelegate" pc="268436139" symbol="onMenu"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="6" lineNum="56" parent="globals/DeLijnDelegate" pc="268436141" symbol="onMenu"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="6" lineNum="57" parent="globals/DeLijnDelegate" pc="268436153" symbol="onMenu"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="7" lineNum="124" parent="globals/DeLijnDelegate" pc="268436156" symbol="onRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="7" lineNum="125" parent="globals/DeLijnDelegate" pc="268436160" symbol="onRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="7" lineNum="133" parent="globals/DeLijnDelegate" pc="268436224" symbol="onRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="7" lineNum="140" parent="globals/DeLijnDelegate" pc="268436279" symbol="onRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="8" lineNum="148" parent="globals/DeLijnDelegate" pc="268436335" symbol="&lt;globals/DeLijnDelegate/&lt;&gt;_parseDate&gt;"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="8" lineNum="150" parent="globals/DeLijnDelegate" pc="268436337" symbol="&lt;globals/DeLijnDelegate/&lt;&gt;_parseDate&gt;"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="8" lineNum="151" parent="globals/DeLijnDelegate" pc="268436363" symbol="&lt;globals/DeLijnDelegate/&lt;&gt;_parseDate&gt;"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="8" lineNum="154" parent="globals/DeLijnDelegate" pc="268436365" symbol="&lt;globals/DeLijnDelegate/&lt;&gt;_parseDate&gt;"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="70" parent="globals/DeLijnDelegate" pc="268436657" symbol="onReceiveFirstRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="71" parent="globals/DeLijnDelegate" pc="268436661" symbol="onReceiveFirstRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="72" parent="globals/DeLijnDelegate" pc="268436672" symbol="onReceiveFirstRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="73" parent="globals/DeLijnDelegate" pc="268436679" symbol="onReceiveFirstRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="74" parent="globals/DeLijnDelegate" pc="268436721" symbol="onReceiveFirstRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="75" parent="globals/DeLijnDelegate" pc="268436746" symbol="onReceiveFirstRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="76" parent="globals/DeLijnDelegate" pc="268436778" symbol="onReceiveFirstRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="77" parent="globals/DeLijnDelegate" pc="268436788" symbol="onReceiveFirstRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="78" parent="globals/DeLijnDelegate" pc="268436794" symbol="onReceiveFirstRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="81" parent="globals/DeLijnDelegate" pc="268436804" symbol="onReceiveFirstRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="82" parent="globals/DeLijnDelegate" pc="268436811" symbol="onReceiveFirstRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="83" parent="globals/DeLijnDelegate" pc="268436847" symbol="onReceiveFirstRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="86" parent="globals/DeLijnDelegate" pc="268436857" symbol="onReceiveFirstRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="87" parent="globals/DeLijnDelegate" pc="268436868" symbol="onReceiveFirstRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="91" parent="globals/DeLijnDelegate" pc="268436884" symbol="onReceiveFirstRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="10" lineNum="43" parent="globals/DeLijnDelegate" pc="268436911" symbol="initialize"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="10" lineNum="46" parent="globals/DeLijnDelegate" pc="268436913" symbol="initialize"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="10" lineNum="47" parent="globals/DeLijnDelegate" pc="268436935" symbol="initialize"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="10" lineNum="48" parent="globals/DeLijnDelegate" pc="268436945" symbol="initialize"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="10" lineNum="49" parent="globals/DeLijnDelegate" pc="268436981" symbol="initialize"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="10" lineNum="50" parent="globals/DeLijnDelegate" pc="268437052" symbol="initialize"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="98" parent="globals/DeLijnDelegate" pc="268437065" symbol="onReceiveSecondRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="99" parent="globals/DeLijnDelegate" pc="268437069" symbol="onReceiveSecondRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="100" parent="globals/DeLijnDelegate" pc="268437080" symbol="onReceiveSecondRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="101" parent="globals/DeLijnDelegate" pc="268437087" symbol="onReceiveSecondRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="102" parent="globals/DeLijnDelegate" pc="268437129" symbol="onReceiveSecondRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="103" parent="globals/DeLijnDelegate" pc="268437154" symbol="onReceiveSecondRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="104" parent="globals/DeLijnDelegate" pc="268437186" symbol="onReceiveSecondRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="105" parent="globals/DeLijnDelegate" pc="268437196" symbol="onReceiveSecondRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="106" parent="globals/DeLijnDelegate" pc="268437202" symbol="onReceiveSecondRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="109" parent="globals/DeLijnDelegate" pc="268437212" symbol="onReceiveSecondRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="110" parent="globals/DeLijnDelegate" pc="268437219" symbol="onReceiveSecondRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="111" parent="globals/DeLijnDelegate" pc="268437255" symbol="onReceiveSecondRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="114" parent="globals/DeLijnDelegate" pc="268437265" symbol="onReceiveSecondRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="115" parent="globals/DeLijnDelegate" pc="268437276" symbol="onReceiveSecondRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="119" parent="globals/DeLijnDelegate" pc="268437292" symbol="onReceiveSecondRequest"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="12" lineNum="62" parent="globals/DeLijnDelegate" pc="268437319" symbol="onSelect"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="12" lineNum="63" parent="globals/DeLijnDelegate" pc="268437321" symbol="onSelect"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="12" lineNum="64" parent="globals/DeLijnDelegate" pc="268437333" symbol="onSelect"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="13" lineNum="45" parent="globals/DeLijnView" pc="268437336" symbol="onShow"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="13" lineNum="46" parent="globals/DeLijnView" pc="268437338" symbol="onShow"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="14" lineNum="75" parent="globals/DeLijnView" pc="268437380" symbol="onRefresh"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="14" lineNum="76" parent="globals/DeLijnView" pc="268437382" symbol="onRefresh"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="15" lineNum="31" parent="globals/DeLijnView" pc="268437399" symbol="onLayout"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="15" lineNum="32" parent="globals/DeLijnView" pc="268437401" symbol="onLayout"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="15" lineNum="33" parent="globals/DeLijnView" pc="268437442" symbol="onLayout"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="15" lineNum="34" parent="globals/DeLijnView" pc="268437472" symbol="onLayout"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="15" lineNum="35" parent="globals/DeLijnView" pc="268437502" symbol="onLayout"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="15" lineNum="36" parent="globals/DeLijnView" pc="268437532" symbol="onLayout"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="15" lineNum="37" parent="globals/DeLijnView" pc="268437562" symbol="onLayout"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="15" lineNum="38" parent="globals/DeLijnView" pc="268437592" symbol="onLayout"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="15" lineNum="40" parent="globals/DeLijnView" pc="268437622" symbol="onLayout"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="15" lineNum="41" parent="globals/DeLijnView" pc="268437671" symbol="onLayout"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="16" lineNum="68" parent="globals/DeLijnView" pc="268437721" symbol="onReceive"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="16" lineNum="69" parent="globals/DeLijnView" pc="268437723" symbol="onReceive"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="16" lineNum="70" parent="globals/DeLijnView" pc="268437741" symbol="onReceive"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="16" lineNum="71" parent="globals/DeLijnView" pc="268437751" symbol="onReceive"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="17" lineNum="24" parent="globals/DeLijnView" pc="268437764" symbol="initialize"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="17" lineNum="25" parent="globals/DeLijnView" pc="268437766" symbol="initialize"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="17" lineNum="26" parent="globals/DeLijnView" pc="268437788" symbol="initialize"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="18" lineNum="62" parent="globals/DeLijnView" pc="268437823" symbol="onHide"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="18" lineNum="63" parent="globals/DeLijnView" pc="268437825" symbol="onHide"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="19" lineNum="51" parent="globals/DeLijnView" pc="268437844" symbol="onUpdate"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="19" lineNum="52" parent="globals/DeLijnView" pc="268437846" symbol="onUpdate"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="19" lineNum="53" parent="globals/DeLijnView" pc="268437858" symbol="onUpdate"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="19" lineNum="54" parent="globals/DeLijnView" pc="268437896" symbol="onUpdate"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="19" lineNum="55" parent="globals/DeLijnView" pc="268437934" symbol="onUpdate"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="19" lineNum="56" parent="globals/DeLijnView" pc="268437972" symbol="onUpdate"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="19" lineNum="57" parent="globals/DeLijnView" pc="268438010" symbol="onUpdate"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="20" lineNum="79" parent="globals/DeLijnView" pc="268438031" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="20" lineNum="80" parent="globals/DeLijnView" pc="268438035" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="20" lineNum="81" parent="globals/DeLijnView" pc="268438052" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="20" lineNum="82" parent="globals/DeLijnView" pc="268438082" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="20" lineNum="83" parent="globals/DeLijnView" pc="268438121" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="20" lineNum="84" parent="globals/DeLijnView" pc="268438145" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="20" lineNum="86" parent="globals/DeLijnView" pc="268438167" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="20" lineNum="87" parent="globals/DeLijnView" pc="268438201" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="20" lineNum="90" parent="globals/DeLijnView" pc="268438223" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="20" lineNum="91" parent="globals/DeLijnView" pc="268438265" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="20" lineNum="92" parent="globals/DeLijnView" pc="268438276" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="20" lineNum="94" parent="globals/DeLijnView" pc="268438283" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="20" lineNum="100" parent="globals/DeLijnView" pc="268438379" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnApp.mc" id="22" lineNum="20" parent="globals/DeLijnApp" pc="268438406" symbol="getInitialView"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnApp.mc" id="22" lineNum="21" parent="globals/DeLijnApp" pc="268438410" symbol="getInitialView"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnApp.mc" id="22" lineNum="22" parent="globals/DeLijnApp" pc="268438438" symbol="getInitialView"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnApp.mc" id="22" lineNum="23" parent="globals/DeLijnApp" pc="268438482" symbol="getInitialView"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnApp.mc" id="23" lineNum="7" parent="globals/DeLijnApp" pc="268438509" symbol="initialize"/>
-        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnApp.mc" id="23" lineNum="8" parent="globals/DeLijnApp" pc="268438511" symbol="initialize"/>
-        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="25" lineNum="14" parent="globals/Rez/Layouts" pc="268438530" symbol="MainLayout"/>
-        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="25" lineNum="15" parent="globals/Rez/Layouts" pc="268438542" symbol="MainLayout"/>
-        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="25" lineNum="16" parent="globals/Rez/Layouts" pc="268438647" symbol="MainLayout"/>
-        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="25" lineNum="18" parent="globals/Rez/Layouts" pc="268438669" symbol="MainLayout"/>
-        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="25" lineNum="20" parent="globals/Rez/Layouts" pc="268438834" symbol="MainLayout"/>
-        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="25" lineNum="22" parent="globals/Rez/Layouts" pc="268438999" symbol="MainLayout"/>
-        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="25" lineNum="24" parent="globals/Rez/Layouts" pc="268439151" symbol="MainLayout"/>
-        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="25" lineNum="26" parent="globals/Rez/Layouts" pc="268439316" symbol="MainLayout"/>
-        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="25" lineNum="28" parent="globals/Rez/Layouts" pc="268439468" symbol="MainLayout"/>
-        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="25" lineNum="30" parent="globals/Rez/Layouts" pc="268439633" symbol="MainLayout"/>
-        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="25" lineNum="32" parent="globals/Rez/Layouts" pc="268439798" symbol="MainLayout"/>
-        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="25" lineNum="34" parent="globals/Rez/Layouts" pc="268439950" symbol="MainLayout"/>
-        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="25" lineNum="36" parent="globals/Rez/Layouts" pc="268440115" symbol="MainLayout"/>
-        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="25" lineNum="38" parent="globals/Rez/Layouts" pc="268440267" symbol="MainLayout"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="1" lineNum="8" parent="globals/DeLijnDelegate" pc="268435460" symbol="&lt;init&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="1" lineNum="11" parent="globals/DeLijnDelegate" pc="268435478" symbol="&lt;init&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="1" lineNum="12" parent="globals/DeLijnDelegate" pc="268435515" symbol="&lt;init&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="1" lineNum="40" parent="globals/DeLijnDelegate" pc="268435787" symbol="&lt;init&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnApp.mc" id="2" lineNum="27" parent="globals" pc="268436074" symbol="getApp"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnApp.mc" id="2" lineNum="28" parent="globals" pc="268436084" symbol="getApp"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="3" lineNum="8" parent="globals/DeLijnView" pc="268436100" symbol="&lt;init&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="3" lineNum="10" parent="globals/DeLijnView" pc="268436118" symbol="&lt;init&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="3" lineNum="11" parent="globals/DeLijnView" pc="268436132" symbol="&lt;init&gt;"/>
+        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="4" lineNum="7" parent="globals/Rez" pc="268436335" symbol="&lt;init&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnApp.mc" id="5" lineNum="5" parent="globals/DeLijnApp" pc="268436359" symbol="&lt;init&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="6" lineNum="79" parent="globals/DeLijnDelegate" pc="268436378" symbol="onMenu"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="6" lineNum="80" parent="globals/DeLijnDelegate" pc="268436380" symbol="onMenu"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="6" lineNum="81" parent="globals/DeLijnDelegate" pc="268436392" symbol="onMenu"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="7" lineNum="190" parent="globals/DeLijnDelegate" pc="268436395" symbol="onRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="7" lineNum="191" parent="globals/DeLijnDelegate" pc="268436399" symbol="onRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="7" lineNum="199" parent="globals/DeLijnDelegate" pc="268436463" symbol="onRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="7" lineNum="206" parent="globals/DeLijnDelegate" pc="268436518" symbol="onRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="8" lineNum="214" parent="globals/DeLijnDelegate" pc="268436574" symbol="&lt;globals/DeLijnDelegate/&lt;&gt;_parseDate&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="8" lineNum="216" parent="globals/DeLijnDelegate" pc="268436576" symbol="&lt;globals/DeLijnDelegate/&lt;&gt;_parseDate&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="8" lineNum="217" parent="globals/DeLijnDelegate" pc="268436615" symbol="&lt;globals/DeLijnDelegate/&lt;&gt;_parseDate&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="8" lineNum="220" parent="globals/DeLijnDelegate" pc="268436620" symbol="&lt;globals/DeLijnDelegate/&lt;&gt;_parseDate&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="94" parent="globals/DeLijnDelegate" pc="268436912" symbol="onReceiveFirstRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="95" parent="globals/DeLijnDelegate" pc="268436916" symbol="onReceiveFirstRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="96" parent="globals/DeLijnDelegate" pc="268436927" symbol="onReceiveFirstRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="97" parent="globals/DeLijnDelegate" pc="268436934" symbol="onReceiveFirstRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="98" parent="globals/DeLijnDelegate" pc="268436976" symbol="onReceiveFirstRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="99" parent="globals/DeLijnDelegate" pc="268437001" symbol="onReceiveFirstRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="100" parent="globals/DeLijnDelegate" pc="268437033" symbol="onReceiveFirstRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="101" parent="globals/DeLijnDelegate" pc="268437054" symbol="onReceiveFirstRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="102" parent="globals/DeLijnDelegate" pc="268437075" symbol="onReceiveFirstRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="104" parent="globals/DeLijnDelegate" pc="268437085" symbol="onReceiveFirstRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="105" parent="globals/DeLijnDelegate" pc="268437129" symbol="onReceiveFirstRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="108" parent="globals/DeLijnDelegate" pc="268437135" symbol="onReceiveFirstRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="109" parent="globals/DeLijnDelegate" pc="268437141" symbol="onReceiveFirstRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="110" parent="globals/DeLijnDelegate" pc="268437145" symbol="onReceiveFirstRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="113" parent="globals/DeLijnDelegate" pc="268437182" symbol="onReceiveFirstRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="114" parent="globals/DeLijnDelegate" pc="268437197" symbol="onReceiveFirstRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="115" parent="globals/DeLijnDelegate" pc="268437208" symbol="onReceiveFirstRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="117" parent="globals/DeLijnDelegate" pc="268437245" symbol="onReceiveFirstRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="118" parent="globals/DeLijnDelegate" pc="268437256" symbol="onReceiveFirstRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="121" parent="globals/DeLijnDelegate" pc="268437293" symbol="onReceiveFirstRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="125" parent="globals/DeLijnDelegate" pc="268437327" symbol="onReceiveFirstRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="126" parent="globals/DeLijnDelegate" pc="268437334" symbol="onReceiveFirstRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="127" parent="globals/DeLijnDelegate" pc="268437365" symbol="onReceiveFirstRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="130" parent="globals/DeLijnDelegate" pc="268437378" symbol="onReceiveFirstRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="131" parent="globals/DeLijnDelegate" pc="268437389" symbol="onReceiveFirstRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="9" lineNum="136" parent="globals/DeLijnDelegate" pc="268437411" symbol="onReceiveFirstRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="10" lineNum="67" parent="globals/DeLijnDelegate" pc="268437441" symbol="initialize"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="10" lineNum="70" parent="globals/DeLijnDelegate" pc="268437443" symbol="initialize"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="10" lineNum="71" parent="globals/DeLijnDelegate" pc="268437465" symbol="initialize"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="10" lineNum="72" parent="globals/DeLijnDelegate" pc="268437475" symbol="initialize"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="10" lineNum="73" parent="globals/DeLijnDelegate" pc="268437511" symbol="initialize"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="10" lineNum="74" parent="globals/DeLijnDelegate" pc="268437582" symbol="initialize"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="143" parent="globals/DeLijnDelegate" pc="268437595" symbol="onReceiveSecondRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="144" parent="globals/DeLijnDelegate" pc="268437599" symbol="onReceiveSecondRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="145" parent="globals/DeLijnDelegate" pc="268437610" symbol="onReceiveSecondRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="146" parent="globals/DeLijnDelegate" pc="268437617" symbol="onReceiveSecondRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="147" parent="globals/DeLijnDelegate" pc="268437659" symbol="onReceiveSecondRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="148" parent="globals/DeLijnDelegate" pc="268437684" symbol="onReceiveSecondRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="149" parent="globals/DeLijnDelegate" pc="268437716" symbol="onReceiveSecondRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="150" parent="globals/DeLijnDelegate" pc="268437737" symbol="onReceiveSecondRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="151" parent="globals/DeLijnDelegate" pc="268437758" symbol="onReceiveSecondRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="153" parent="globals/DeLijnDelegate" pc="268437768" symbol="onReceiveSecondRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="154" parent="globals/DeLijnDelegate" pc="268437812" symbol="onReceiveSecondRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="157" parent="globals/DeLijnDelegate" pc="268437818" symbol="onReceiveSecondRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="158" parent="globals/DeLijnDelegate" pc="268437824" symbol="onReceiveSecondRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="159" parent="globals/DeLijnDelegate" pc="268437828" symbol="onReceiveSecondRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="162" parent="globals/DeLijnDelegate" pc="268437865" symbol="onReceiveSecondRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="163" parent="globals/DeLijnDelegate" pc="268437880" symbol="onReceiveSecondRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="164" parent="globals/DeLijnDelegate" pc="268437891" symbol="onReceiveSecondRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="166" parent="globals/DeLijnDelegate" pc="268437928" symbol="onReceiveSecondRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="167" parent="globals/DeLijnDelegate" pc="268437939" symbol="onReceiveSecondRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="170" parent="globals/DeLijnDelegate" pc="268437976" symbol="onReceiveSecondRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="174" parent="globals/DeLijnDelegate" pc="268438010" symbol="onReceiveSecondRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="175" parent="globals/DeLijnDelegate" pc="268438017" symbol="onReceiveSecondRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="176" parent="globals/DeLijnDelegate" pc="268438048" symbol="onReceiveSecondRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="179" parent="globals/DeLijnDelegate" pc="268438061" symbol="onReceiveSecondRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="180" parent="globals/DeLijnDelegate" pc="268438072" symbol="onReceiveSecondRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="11" lineNum="185" parent="globals/DeLijnDelegate" pc="268438094" symbol="onReceiveSecondRequest"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="12" lineNum="86" parent="globals/DeLijnDelegate" pc="268438124" symbol="onSelect"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="12" lineNum="87" parent="globals/DeLijnDelegate" pc="268438126" symbol="onSelect"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnDelegate.mc" id="12" lineNum="88" parent="globals/DeLijnDelegate" pc="268438138" symbol="onSelect"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="13" lineNum="45" parent="globals/DeLijnView" pc="268438141" symbol="onShow"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="13" lineNum="46" parent="globals/DeLijnView" pc="268438143" symbol="onShow"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="14" lineNum="79" parent="globals/DeLijnView" pc="268438185" symbol="onRefresh"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="14" lineNum="80" parent="globals/DeLijnView" pc="268438187" symbol="onRefresh"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="15" lineNum="31" parent="globals/DeLijnView" pc="268438204" symbol="onLayout"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="15" lineNum="32" parent="globals/DeLijnView" pc="268438206" symbol="onLayout"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="15" lineNum="33" parent="globals/DeLijnView" pc="268438247" symbol="onLayout"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="15" lineNum="34" parent="globals/DeLijnView" pc="268438277" symbol="onLayout"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="15" lineNum="35" parent="globals/DeLijnView" pc="268438307" symbol="onLayout"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="15" lineNum="36" parent="globals/DeLijnView" pc="268438337" symbol="onLayout"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="15" lineNum="37" parent="globals/DeLijnView" pc="268438367" symbol="onLayout"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="15" lineNum="38" parent="globals/DeLijnView" pc="268438397" symbol="onLayout"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="15" lineNum="40" parent="globals/DeLijnView" pc="268438427" symbol="onLayout"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="15" lineNum="41" parent="globals/DeLijnView" pc="268438476" symbol="onLayout"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="16" lineNum="83" parent="globals/DeLijnView" pc="268438526" symbol="&lt;globals/DeLijnView/&lt;&gt;_statusToColor&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="16" lineNum="84" parent="globals/DeLijnView" pc="268438528" symbol="&lt;globals/DeLijnView/&lt;&gt;_statusToColor&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="16" lineNum="85" parent="globals/DeLijnView" pc="268438534" symbol="&lt;globals/DeLijnView/&lt;&gt;_statusToColor&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="16" lineNum="87" parent="globals/DeLijnView" pc="268438543" symbol="&lt;globals/DeLijnView/&lt;&gt;_statusToColor&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="16" lineNum="88" parent="globals/DeLijnView" pc="268438545" symbol="&lt;globals/DeLijnView/&lt;&gt;_statusToColor&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="16" lineNum="90" parent="globals/DeLijnView" pc="268438565" symbol="&lt;globals/DeLijnView/&lt;&gt;_statusToColor&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="16" lineNum="92" parent="globals/DeLijnView" pc="268438585" symbol="&lt;globals/DeLijnView/&lt;&gt;_statusToColor&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="16" lineNum="94" parent="globals/DeLijnView" pc="268438605" symbol="&lt;globals/DeLijnView/&lt;&gt;_statusToColor&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="16" lineNum="89" parent="globals/DeLijnView" pc="268438608" symbol="&lt;globals/DeLijnView/&lt;&gt;_statusToColor&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="16" lineNum="91" parent="globals/DeLijnView" pc="268438614" symbol="&lt;globals/DeLijnView/&lt;&gt;_statusToColor&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="16" lineNum="93" parent="globals/DeLijnView" pc="268438620" symbol="&lt;globals/DeLijnView/&lt;&gt;_statusToColor&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="16" lineNum="95" parent="globals/DeLijnView" pc="268438626" symbol="&lt;globals/DeLijnView/&lt;&gt;_statusToColor&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="17" lineNum="72" parent="globals/DeLijnView" pc="268438634" symbol="onReceive"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="17" lineNum="73" parent="globals/DeLijnView" pc="268438636" symbol="onReceive"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="17" lineNum="74" parent="globals/DeLijnView" pc="268438654" symbol="onReceive"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="17" lineNum="75" parent="globals/DeLijnView" pc="268438664" symbol="onReceive"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="18" lineNum="24" parent="globals/DeLijnView" pc="268438680" symbol="initialize"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="18" lineNum="25" parent="globals/DeLijnView" pc="268438682" symbol="initialize"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="18" lineNum="26" parent="globals/DeLijnView" pc="268438704" symbol="initialize"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="19" lineNum="66" parent="globals/DeLijnView" pc="268438739" symbol="onHide"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="19" lineNum="67" parent="globals/DeLijnView" pc="268438741" symbol="onHide"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="20" lineNum="51" parent="globals/DeLijnView" pc="268438760" symbol="onUpdate"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="20" lineNum="52" parent="globals/DeLijnView" pc="268438762" symbol="onUpdate"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="20" lineNum="53" parent="globals/DeLijnView" pc="268438774" symbol="onUpdate"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="20" lineNum="54" parent="globals/DeLijnView" pc="268438818" symbol="onUpdate"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="20" lineNum="55" parent="globals/DeLijnView" pc="268438862" symbol="onUpdate"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="20" lineNum="56" parent="globals/DeLijnView" pc="268438906" symbol="onUpdate"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="20" lineNum="57" parent="globals/DeLijnView" pc="268438950" symbol="onUpdate"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="20" lineNum="58" parent="globals/DeLijnView" pc="268438994" symbol="onUpdate"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="20" lineNum="59" parent="globals/DeLijnView" pc="268439038" symbol="onUpdate"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="20" lineNum="60" parent="globals/DeLijnView" pc="268439082" symbol="onUpdate"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="20" lineNum="61" parent="globals/DeLijnView" pc="268439126" symbol="onUpdate"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="21" lineNum="99" parent="globals/DeLijnView" pc="268439147" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="21" lineNum="100" parent="globals/DeLijnView" pc="268439151" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="21" lineNum="101" parent="globals/DeLijnView" pc="268439168" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="21" lineNum="102" parent="globals/DeLijnView" pc="268439198" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="21" lineNum="103" parent="globals/DeLijnView" pc="268439237" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="21" lineNum="104" parent="globals/DeLijnView" pc="268439265" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="21" lineNum="105" parent="globals/DeLijnView" pc="268439322" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="21" lineNum="106" parent="globals/DeLijnView" pc="268439328" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="21" lineNum="108" parent="globals/DeLijnView" pc="268439356" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="21" lineNum="109" parent="globals/DeLijnView" pc="268439372" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="21" lineNum="112" parent="globals/DeLijnView" pc="268439400" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="21" lineNum="113" parent="globals/DeLijnView" pc="268439424" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="21" lineNum="114" parent="globals/DeLijnView" pc="268439435" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="21" lineNum="116" parent="globals/DeLijnView" pc="268439445" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnView.mc" id="21" lineNum="122" parent="globals/DeLijnView" pc="268439547" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnApp.mc" id="22" lineNum="12" parent="globals/DeLijnApp" pc="268439574" symbol="onStart"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnApp.mc" id="23" lineNum="20" parent="globals/DeLijnApp" pc="268439577" symbol="getInitialView"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnApp.mc" id="23" lineNum="21" parent="globals/DeLijnApp" pc="268439581" symbol="getInitialView"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnApp.mc" id="23" lineNum="22" parent="globals/DeLijnApp" pc="268439609" symbol="getInitialView"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnApp.mc" id="23" lineNum="23" parent="globals/DeLijnApp" pc="268439653" symbol="getInitialView"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnApp.mc" id="24" lineNum="7" parent="globals/DeLijnApp" pc="268439680" symbol="initialize"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnApp.mc" id="24" lineNum="8" parent="globals/DeLijnApp" pc="268439682" symbol="initialize"/>
+        <entry filename="E:\\Doc\\GarminDelijn\\DeLijn\\source\\DeLijnApp.mc" id="25" lineNum="16" parent="globals/DeLijnApp" pc="268439701" symbol="onStop"/>
+        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="26" lineNum="14" parent="globals/Rez/Layouts" pc="268439704" symbol="MainLayout"/>
+        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="26" lineNum="15" parent="globals/Rez/Layouts" pc="268439716" symbol="MainLayout"/>
+        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="26" lineNum="16" parent="globals/Rez/Layouts" pc="268439821" symbol="MainLayout"/>
+        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="26" lineNum="18" parent="globals/Rez/Layouts" pc="268439843" symbol="MainLayout"/>
+        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="26" lineNum="20" parent="globals/Rez/Layouts" pc="268440008" symbol="MainLayout"/>
+        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="26" lineNum="22" parent="globals/Rez/Layouts" pc="268440173" symbol="MainLayout"/>
+        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="26" lineNum="24" parent="globals/Rez/Layouts" pc="268440325" symbol="MainLayout"/>
+        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="26" lineNum="26" parent="globals/Rez/Layouts" pc="268440490" symbol="MainLayout"/>
+        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="26" lineNum="28" parent="globals/Rez/Layouts" pc="268440642" symbol="MainLayout"/>
+        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="26" lineNum="30" parent="globals/Rez/Layouts" pc="268440807" symbol="MainLayout"/>
+        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="26" lineNum="32" parent="globals/Rez/Layouts" pc="268440972" symbol="MainLayout"/>
+        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="26" lineNum="34" parent="globals/Rez/Layouts" pc="268441124" symbol="MainLayout"/>
+        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="26" lineNum="36" parent="globals/Rez/Layouts" pc="268441289" symbol="MainLayout"/>
+        <entry filename="e:\\Doc\\GarminDelijn\\DeLijn\\source\\gen\\006-B3076-00\\source\\Rez.mcgen" id="26" lineNum="38" parent="globals/Rez/Layouts" pc="268441441" symbol="MainLayout"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388639" module="true" symbol="Graphics"/>
         <entry id="8389346" symbol="text"/>
-        <entry field="true" id="51" symbol="Region5"/>
-        <entry field="true" id="50" symbol="Region4"/>
-        <entry field="true" id="49" symbol="Region3"/>
-        <entry field="true" id="48" symbol="Region2"/>
-        <entry field="true" id="47" symbol="Region1"/>
+        <entry field="true" id="52" symbol="Region5"/>
+        <entry field="true" id="51" symbol="Region4"/>
+        <entry field="true" id="50" symbol="Region3"/>
+        <entry field="true" id="49" symbol="Region2"/>
+        <entry field="true" id="48" symbol="Region1"/>
         <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
         <entry field="true" id="13" symbol="&lt;globals/DeLijnDelegate/&lt;&gt;_request&gt;"/>
-        <entry id="34" method="true" symbol="MainLayout"/>
+        <entry id="35" method="true" symbol="MainLayout"/>
         <entry field="true" id="8388938" symbol="month"/>
-        <entry field="true" id="45" symbol="FavStopID"/>
+        <entry field="true" id="46" symbol="FavStopID"/>
         <entry id="8388924" module="true" symbol="Gregorian"/>
         <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-        <entry id="30" method="true" symbol="onRefresh"/>
+        <entry id="27" method="true" symbol="&lt;globals/DeLijnView/&lt;&gt;_statusToColor&gt;"/>
+        <entry id="31" method="true" symbol="onRefresh"/>
         <entry id="7" object="true" symbol="DeLijnDelegate"/>
-        <entry field="true" id="36" symbol="AppName"/>
+        <entry field="true" id="37" symbol="AppName"/>
         <entry id="8389339" symbol="second"/>
-        <entry field="true" id="41" symbol="FavGroup2Desc"/>
+        <entry field="true" id="42" symbol="FavGroup2Desc"/>
         <entry id="5" module="true" symbol="globals/Rez/Strings"/>
         <entry id="8389594" symbol="headers"/>
         <entry id="8389080" method="true" symbol="onMenu"/>
         <entry id="8389345" symbol="rezId"/>
-        <entry field="true" id="40" symbol="FavGroup2"/>
-        <entry field="true" id="38" symbol="FavGroup1"/>
+        <entry field="true" id="41" symbol="FavGroup2"/>
+        <entry field="true" id="39" symbol="FavGroup1"/>
         <entry id="8389338" symbol="minute"/>
         <entry id="8388648" module="true" symbol="WatchUi"/>
         <entry id="8" object="true" symbol="DeLijnView"/>
@@ -160,8 +203,8 @@
         <entry id="8389124" method="true" symbol="onUpdate"/>
         <entry field="true" id="8389065" symbol="locY"/>
         <entry field="true" id="8389064" symbol="locX"/>
-        <entry field="true" id="27" symbol="&lt;globals/DeLijnView/&lt;&gt;_timetable&gt;"/>
-        <entry field="true" id="44" symbol="FavRegion"/>
+        <entry field="true" id="28" symbol="&lt;globals/DeLijnView/&lt;&gt;_timetable&gt;"/>
+        <entry field="true" id="45" symbol="FavRegion"/>
         <entry id="8388771" module="true" object="true" symbol="Drawables"/>
         <entry id="8389348" symbol="font"/>
         <entry field="true" id="8389067" symbol="height"/>
@@ -181,22 +224,22 @@
         <entry field="true" id="23" symbol="&lt;globals/DeLijnView/&lt;&gt;_favName1&gt;"/>
         <entry id="8388637" module="true" symbol="Communications"/>
         <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
-        <entry field="true" id="43" symbol="FavName"/>
+        <entry field="true" id="44" symbol="FavName"/>
         <entry id="8389844" symbol="responseType"/>
-        <entry field="true" id="39" symbol="FavGroup1Desc"/>
-        <entry id="28" method="true" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
-        <entry field="true" id="42" symbol="FavLineID"/>
+        <entry field="true" id="40" symbol="FavGroup1Desc"/>
+        <entry id="29" method="true" symbol="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;"/>
+        <entry field="true" id="43" symbol="FavLineID"/>
         <entry field="true" id="10" symbol="&lt;globals/DeLijnDelegate/&lt;&gt;_notify&gt;"/>
         <entry id="8389619" method="true" symbol="onSelect"/>
         <entry id="8388645" module="true" symbol="Time"/>
         <entry id="8388769" module="true" object="true" symbol="Rez"/>
         <entry field="true" id="22" symbol="&lt;globals/DeLijnView/&lt;&gt;_favCountdown2_2&gt;"/>
-        <entry id="29" method="true" symbol="onReceive"/>
+        <entry id="30" method="true" symbol="onReceive"/>
         <entry field="true" id="21" symbol="&lt;globals/DeLijnView/&lt;&gt;_favCountdown2_1&gt;"/>
         <entry field="true" id="8388720" symbol="hour"/>
         <entry field="true" id="25" symbol="&lt;globals/DeLijnView/&lt;&gt;_message&gt;"/>
         <entry id="8388640" module="true" symbol="Lang"/>
-        <entry field="true" id="32" symbol="LauncherIcon"/>
+        <entry field="true" id="33" symbol="LauncherIcon"/>
         <entry id="8388610" symbol="statics"/>
         <entry id="8389123" method="true" symbol="onShow"/>
         <entry field="true" id="14" symbol="&lt;globals/DeLijnDelegate/&lt;&gt;_timetable&gt;"/>
@@ -205,46 +248,69 @@
         <entry id="8388702" method="true" symbol="initialize"/>
         <entry field="true" id="12" symbol="&lt;globals/DeLijnDelegate/&lt;&gt;_refreshRequestTimer&gt;"/>
         <entry id="8389279" method="true" symbol="onStart"/>
-        <entry field="true" id="33" symbol="refresh"/>
+        <entry field="true" id="34" symbol="refresh"/>
         <entry id="8389280" method="true" symbol="getInitialView"/>
         <entry id="8389281" method="true" symbol="onStop"/>
         <entry id="8389347" symbol="color"/>
         <entry field="true" id="8388939" symbol="day"/>
         <entry field="true" id="8388940" symbol="year"/>
-        <entry field="true" id="37" symbol="AppVersionTitle"/>
+        <entry field="true" id="38" symbol="AppVersionTitle"/>
         <entry id="8388646" module="true" object="true" symbol="Timer"/>
-        <entry id="31" module="true" symbol="Layouts"/>
+        <entry id="32" module="true" symbol="Layouts"/>
         <entry field="true" id="26" symbol="&lt;globals/DeLijnView/&lt;&gt;_refreshUITimer&gt;"/>
-        <entry field="true" id="35" symbol="ApiKeyTitle"/>
+        <entry field="true" id="36" symbol="ApiKeyTitle"/>
         <entry field="true" id="9" symbol="&lt;globals/DeLijnDelegate/&lt;&gt;_apiKey&gt;"/>
         <entry id="8389125" method="true" symbol="onHide"/>
-        <entry field="true" id="46" symbol="RefreshTitle"/>
+        <entry field="true" id="47" symbol="RefreshTitle"/>
         <entry field="true" id="18" symbol="&lt;globals/DeLijnView/&lt;&gt;_countdownString&gt;"/>
         <entry id="17" method="true" symbol="onRequest"/>
         <entry id="8388635" module="true" symbol="Application"/>
     </symbolTable>
     <localVars>
-        <entry endPc="268436333" name="options" stackId="1" startPc="268436160"/>
-        <entry arg="true" endPc="268436656" name="date" stackId="1" startPc="268436335"/>
-        <entry arg="true" endPc="268436910" name="responseCode" stackId="1" startPc="268436657"/>
-        <entry arg="true" endPc="268436910" name="data" stackId="2" startPc="268436657"/>
-        <entry endPc="268436909" name="index" stackId="3" startPc="268436672"/>
-        <entry endPc="268436883" name="i" stackId="4" startPc="268436721"/>
-        <entry endPc="268436870" name="report" stackId="5" startPc="268436721"/>
-        <entry arg="true" endPc="268437064" name="handler" stackId="1" startPc="268436911"/>
-        <entry arg="true" endPc="268437318" name="responseCode" stackId="1" startPc="268437065"/>
-        <entry arg="true" endPc="268437318" name="data" stackId="2" startPc="268437065"/>
-        <entry endPc="268437317" name="index" stackId="3" startPc="268437080"/>
-        <entry endPc="268437291" name="i" stackId="4" startPc="268437129"/>
-        <entry endPc="268437278" name="report" stackId="5" startPc="268437129"/>
-        <entry arg="true" endPc="268437720" name="dc" stackId="1" startPc="268437399"/>
-        <entry arg="true" endPc="268437763" name="args" stackId="1" startPc="268437721"/>
-        <entry arg="true" endPc="268438030" name="dc" stackId="1" startPc="268437844"/>
-        <entry endPc="268438404" name="now" stackId="1" startPc="268438035"/>
-        <entry endPc="268438378" name="i" stackId="2" startPc="268438082"/>
-        <entry endPc="268438365" name="j" stackId="3" startPc="268438121"/>
-        <entry endPc="268438352" name="countdown" stackId="4" startPc="268438223"/>
-        <entry arg="true" endPc="268440383" name="dc" stackId="1" startPc="268438530"/>
+        <entry endPc="268436572" name="options" stackId="1" startPc="268436399"/>
+        <entry arg="true" endPc="268436911" name="date" stackId="1" startPc="268436574"/>
+        <entry arg="true" endPc="268437440" name="responseCode" stackId="1" startPc="268436912"/>
+        <entry arg="true" endPc="268437440" name="data" stackId="2" startPc="268436912"/>
+        <entry endPc="268437436" name="index" stackId="3" startPc="268436927"/>
+        <entry endPc="268437410" name="i" stackId="4" startPc="268436976"/>
+        <entry endPc="268437397" name="report" stackId="5" startPc="268436976"/>
+        <entry endPc="268437394" name="stopTime" stackId="6" startPc="268437033"/>
+        <entry endPc="268437394" name="stopStaticTime" stackId="7" startPc="268437033"/>
+        <entry endPc="268437394" name="predictionStatus" stackId="8" startPc="268437033"/>
+        <entry endPc="268437326" name="diffTime" stackId="9" startPc="268437182"/>
+        <entry arg="true" endPc="268437594" name="handler" stackId="1" startPc="268437441"/>
+        <entry arg="true" endPc="268438123" name="responseCode" stackId="1" startPc="268437595"/>
+        <entry arg="true" endPc="268438123" name="data" stackId="2" startPc="268437595"/>
+        <entry endPc="268438119" name="index" stackId="3" startPc="268437610"/>
+        <entry endPc="268438093" name="i" stackId="4" startPc="268437659"/>
+        <entry endPc="268438080" name="report" stackId="5" startPc="268437659"/>
+        <entry endPc="268438077" name="stopTime" stackId="6" startPc="268437716"/>
+        <entry endPc="268438077" name="stopStaticTime" stackId="7" startPc="268437716"/>
+        <entry endPc="268438077" name="predictionStatus" stackId="8" startPc="268437716"/>
+        <entry endPc="268438009" name="diffTime" stackId="9" startPc="268437865"/>
+        <entry arg="true" endPc="268438525" name="dc" stackId="1" startPc="268438204"/>
+        <entry arg="true" endPc="268438633" name="status" stackId="1" startPc="268438526"/>
+        <entry arg="true" endPc="268438679" name="args" stackId="1" startPc="268438634"/>
+        <entry arg="true" endPc="268439146" name="dc" stackId="1" startPc="268438760"/>
+        <entry endPc="268439572" name="now" stackId="1" startPc="268439151"/>
+        <entry endPc="268439546" name="i" stackId="2" startPc="268439198"/>
+        <entry endPc="268439533" name="j" stackId="3" startPc="268439237"/>
+        <entry endPc="268439520" name="time" stackId="4" startPc="268439237"/>
+        <entry endPc="268439520" name="countdown" stackId="5" startPc="268439400"/>
+        <entry endPc="268439679" name="view" stackId="1" startPc="268439581"/>
+        <entry endPc="268439679" name="delegate" stackId="2" startPc="268439581"/>
+        <entry arg="true" endPc="268441557" name="dc" stackId="1" startPc="268439704"/>
+        <entry endPc="268441557" name="rez_cmp_local_bitmap_refresh" stackId="2" startPc="268439716"/>
+        <entry endPc="268441557" name="rez_cmp_local_textarea_favName1" stackId="3" startPc="268439716"/>
+        <entry endPc="268441557" name="rez_cmp_local_textarea_favCountdown1_1" stackId="4" startPc="268439716"/>
+        <entry endPc="268441557" name="rez_cmp_local_textarea_5466502741" stackId="5" startPc="268439716"/>
+        <entry endPc="268441557" name="rez_cmp_local_textarea_favCountdown1_2" stackId="6" startPc="268439716"/>
+        <entry endPc="268441557" name="rez_cmp_local_textarea_1744782463" stackId="7" startPc="268439716"/>
+        <entry endPc="268441557" name="rez_cmp_local_textarea_favName2" stackId="8" startPc="268439716"/>
+        <entry endPc="268441557" name="rez_cmp_local_textarea_favCountdown2_1" stackId="9" startPc="268439716"/>
+        <entry endPc="268441557" name="rez_cmp_local_textarea_5079516421" stackId="10" startPc="268439716"/>
+        <entry endPc="268441557" name="rez_cmp_local_textarea_favCountdown2_2" stackId="11" startPc="268439716"/>
+        <entry endPc="268441557" name="rez_cmp_local_textarea_1529360897" stackId="12" startPc="268439716"/>
     </localVars>
     <deviceInfo partNumber="006-B3076-00"/>
     <annotations>
@@ -272,80 +338,84 @@
         <dataEntry label="globals" offset="63" parentId="" symbolId="globals" type="module"/>
         <dataEntry label="globals/DeLijnDelegate" offset="142" parentId="globals" symbolId="DeLijnDelegate" type="class"/>
         <dataEntry label="globals/DeLijnView" offset="277" parentId="globals" symbolId="DeLijnView" type="class"/>
-        <dataEntry label="globals/Rez" offset="460" parentId="globals" symbolId="Rez" type="module"/>
-        <dataEntry label="globals/DeLijnApp" offset="515" parentId="globals" symbolId="DeLijnApp" type="class"/>
-        <dataEntry label="globals/Rez/Drawables" offset="586" parentId="Rez" symbolId="Drawables" type="module"/>
-        <dataEntry label="globals/Rez/Layouts" offset="633" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry label="globals/Rez/Strings" offset="672" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/Rez" offset="468" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/DeLijnApp" offset="523" parentId="globals" symbolId="DeLijnApp" type="class"/>
+        <dataEntry label="globals/Rez/Drawables" offset="594" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="641" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="680" parentId="Rez" symbolId="Strings" type="module"/>
     </dataEntryOffsetMappings>
     <functions>
-        <functionEntry accessMode="public" endPc="268435942" name="&lt;init&gt;" parent="DeLijnDelegate" startPc="268435457">
+        <functionEntry accessMode="public" endPc="268436073" name="&lt;init&gt;" parent="DeLijnDelegate" startPc="268435460">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268435968" name="getApp" startPc="268435943">
+        <functionEntry accessMode="public" endPc="268436099" name="getApp" startPc="268436074">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268436095" name="&lt;init&gt;" parent="DeLijnView" startPc="268435969">
+        <functionEntry accessMode="public" endPc="268436334" name="&lt;init&gt;" parent="DeLijnView" startPc="268436100">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268436119" name="&lt;init&gt;" parent="Rez" startPc="268436096">
+        <functionEntry accessMode="public" endPc="268436358" name="&lt;init&gt;" parent="Rez" startPc="268436335">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268436138" name="&lt;init&gt;" parent="DeLijnApp" startPc="268436120">
+        <functionEntry accessMode="public" endPc="268436377" name="&lt;init&gt;" parent="DeLijnApp" startPc="268436359">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268436155" name="onMenu" parent="DeLijnDelegate" startPc="268436139">
+        <functionEntry accessMode="public" endPc="268436394" name="onMenu" parent="DeLijnDelegate" startPc="268436378">
             <documentation><![CDATA[<div class="description"> On a menu event, make a web request<br/> <div class="returns">Returns  true if handled, false otherwise</div><br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268436334" name="onRequest" parent="DeLijnDelegate" startPc="268436156">
+        <functionEntry accessMode="public" endPc="268436573" name="onRequest" parent="DeLijnDelegate" startPc="268436395">
             <documentation><![CDATA[<div class="description"> Make the web request<br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="private" endPc="268436656" name="&lt;globals/DeLijnDelegate/&lt;&gt;_parseDate&gt;" parent="DeLijnDelegate" startPc="268436335">
+        <functionEntry accessMode="private" endPc="268436911" name="&lt;globals/DeLijnDelegate/&lt;&gt;_parseDate&gt;" parent="DeLijnDelegate" startPc="268436574">
             <param id="date"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268436910" name="onReceiveFirstRequest" parent="DeLijnDelegate" startPc="268436657">
+        <functionEntry accessMode="public" endPc="268437440" name="onReceiveFirstRequest" parent="DeLijnDelegate" startPc="268436912">
             <param id="responseCode"/>
             <param id="data"/>
             <documentation><![CDATA[<div class="description"> Receive the data from the web request<br/> <div class="param"> responseCode The server response code</div><br/> <div class="param"> data Content from a successful request</div><br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437064" name="initialize" parent="DeLijnDelegate" startPc="268436911">
+        <functionEntry accessMode="public" endPc="268437594" name="initialize" parent="DeLijnDelegate" startPc="268437441">
             <param id="handler"/>
             <documentation><![CDATA[<div class="description"> Set up the callback to the view<br/> <div class="param"> handler Callback method for when data is received</div><br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437318" name="onReceiveSecondRequest" parent="DeLijnDelegate" startPc="268437065">
+        <functionEntry accessMode="public" endPc="268438123" name="onReceiveSecondRequest" parent="DeLijnDelegate" startPc="268437595">
             <param id="responseCode"/>
             <param id="data"/>
             <documentation><![CDATA[<div class="description"> Receive the data from the web request<br/> <div class="param"> responseCode The server response code</div><br/> <div class="param"> data Content from a successful request</div><br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437335" name="onSelect" parent="DeLijnDelegate" startPc="268437319">
+        <functionEntry accessMode="public" endPc="268438140" name="onSelect" parent="DeLijnDelegate" startPc="268438124">
             <documentation><![CDATA[<div class="description"> On a select event, make a web request<br/> <div class="returns">Returns  true if handled, false otherwise</div><br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437379" name="onShow" parent="DeLijnView" startPc="268437336">
+        <functionEntry accessMode="public" endPc="268438184" name="onShow" parent="DeLijnView" startPc="268438141">
             <documentation><![CDATA[<div class="description"> Restore the state of the app and prepare the view to be shown<br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437398" name="onRefresh" parent="DeLijnView" startPc="268437380">
+        <functionEntry accessMode="public" endPc="268438203" name="onRefresh" parent="DeLijnView" startPc="268438185">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437720" name="onLayout" parent="DeLijnView" startPc="268437399">
+        <functionEntry accessMode="public" endPc="268438525" name="onLayout" parent="DeLijnView" startPc="268438204">
             <param id="dc"/>
             <documentation><![CDATA[<div class="description"> Load your resources here<br/> <div class="param"> dc Device context</div><br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437763" name="onReceive" parent="DeLijnView" startPc="268437721">
+        <functionEntry accessMode="private" endPc="268438633" name="&lt;globals/DeLijnView/&lt;&gt;_statusToColor&gt;" parent="DeLijnView" startPc="268438526">
+            <param id="status"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438679" name="onReceive" parent="DeLijnView" startPc="268438634">
             <param id="args"/>
             <documentation><![CDATA[<div class="description"> Show the result or status of the web request<br/> <div class="param"> args Data from the web request, or error message</div><br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437822" name="initialize" parent="DeLijnView" startPc="268437764">
+        <functionEntry accessMode="public" endPc="268438738" name="initialize" parent="DeLijnView" startPc="268438680">
             <documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437843" name="onHide" parent="DeLijnView" startPc="268437823">
+        <functionEntry accessMode="public" endPc="268438759" name="onHide" parent="DeLijnView" startPc="268438739">
             <documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of your app here.<br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268438030" name="onUpdate" parent="DeLijnView" startPc="268437844">
+        <functionEntry accessMode="public" endPc="268439146" name="onUpdate" parent="DeLijnView" startPc="268438760">
             <param id="dc"/>
             <documentation><![CDATA[<div class="description"> Update the view<br/> <div class="param"> dc Device Context</div><br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="private" endPc="268438405" name="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;" parent="DeLijnView" startPc="268438031">
+        <functionEntry accessMode="private" endPc="268439573" name="&lt;globals/DeLijnView/&lt;&gt;_updateCountdowns&gt;" parent="DeLijnView" startPc="268439147">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
@@ -357,21 +427,21 @@
         <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onStart" parent="DeLijnApp">
+        <functionEntry accessMode="public" endPc="268439576" name="onStart" parent="DeLijnApp" startPc="268439574">
             <param id="state"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268438508" name="getInitialView" parent="DeLijnApp" startPc="268438406">
+        <functionEntry accessMode="public" endPc="268439679" name="getInitialView" parent="DeLijnApp" startPc="268439577">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268438529" name="initialize" parent="DeLijnApp" startPc="268438509">
+        <functionEntry accessMode="public" endPc="268439700" name="initialize" parent="DeLijnApp" startPc="268439680">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onStop" parent="DeLijnApp">
+        <functionEntry accessMode="public" endPc="268439703" name="onStop" parent="DeLijnApp" startPc="268439701">
             <param id="state"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268440383" name="MainLayout" parent="Layouts" startPc="268438530">
+        <functionEntry accessMode="public" endPc="268441557" name="MainLayout" parent="Layouts" startPc="268439704">
             <param id="dc"/>
             <documentation/>
         </functionEntry>

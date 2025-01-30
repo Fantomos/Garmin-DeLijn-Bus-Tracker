@@ -1,0 +1,236 @@
+{
+  "settings" : [ {
+    "key" : "appVersion",
+    "valueType" : "string",
+    "defaultValue" : "1.0.0",
+    "configTitle" : "AppVersionTitle",
+    "configPrompt" : null,
+    "configType" : "alphaNumeric",
+    "configError" : null,
+    "configHelpUrl" : null,
+    "configReadonly" : true,
+    "configRequired" : false,
+    "configOptions" : null,
+    "configMin" : null,
+    "configMax" : null,
+    "configMaxLength" : null
+  }, {
+    "key" : "apiKey",
+    "valueType" : "string",
+    "defaultValue" : "***REMOVED***",
+    "configTitle" : "ApiKeyTitle",
+    "configPrompt" : null,
+    "configType" : "alphaNumeric",
+    "configError" : null,
+    "configHelpUrl" : null,
+    "configReadonly" : false,
+    "configRequired" : true,
+    "configOptions" : null,
+    "configMin" : null,
+    "configMax" : null,
+    "configMaxLength" : null
+  }, {
+    "key" : "refreshTime",
+    "valueType" : "number",
+    "defaultValue" : 30,
+    "configTitle" : "RefreshTitle",
+    "configPrompt" : null,
+    "configType" : "numeric",
+    "configError" : null,
+    "configHelpUrl" : null,
+    "configReadonly" : false,
+    "configRequired" : true,
+    "configOptions" : null,
+    "configMin" : null,
+    "configMax" : null,
+    "configMaxLength" : null
+  }, {
+    "group" : {
+      "id" : "favorite1",
+      "title" : "FavGroup1",
+      "description" : "FavGroup1Desc",
+      "enableWhenTrue" : null,
+      "entries" : [ {
+        "key" : "favorite1Name",
+        "valueType" : "string",
+        "defaultValue" : "To Work",
+        "configTitle" : "FavName",
+        "configPrompt" : null,
+        "configType" : "alphaNumeric",
+        "configError" : null,
+        "configHelpUrl" : null,
+        "configReadonly" : false,
+        "configRequired" : true,
+        "configOptions" : null,
+        "configMin" : null,
+        "configMax" : null,
+        "configMaxLength" : null
+      }, {
+        "key" : "favorite1Region",
+        "valueType" : "number",
+        "defaultValue" : 3,
+        "configTitle" : "FavRegion",
+        "configPrompt" : null,
+        "configType" : "list",
+        "configError" : null,
+        "configHelpUrl" : null,
+        "configReadonly" : false,
+        "configRequired" : true,
+        "configOptions" : [ {
+          "display" : "Region1",
+          "value" : 1
+        }, {
+          "display" : "Region2",
+          "value" : 2
+        }, {
+          "display" : "Region3",
+          "value" : 3
+        }, {
+          "display" : "Region4",
+          "value" : 4
+        }, {
+          "display" : "Region5",
+          "value" : 5
+        } ],
+        "configMin" : null,
+        "configMax" : null,
+        "configMaxLength" : null
+      }, {
+        "key" : "favorite1StopID",
+        "valueType" : "number",
+        "defaultValue" : 304244,
+        "configTitle" : "FavStopID",
+        "configPrompt" : null,
+        "configType" : "numeric",
+        "configError" : null,
+        "configHelpUrl" : null,
+        "configReadonly" : false,
+        "configRequired" : true,
+        "configOptions" : null,
+        "configMin" : null,
+        "configMax" : null,
+        "configMaxLength" : null
+      }, {
+        "key" : "favorite1LineID",
+        "valueType" : "number",
+        "defaultValue" : 4,
+        "configTitle" : "FavLineID",
+        "configPrompt" : null,
+        "configType" : "numeric",
+        "configError" : null,
+        "configHelpUrl" : null,
+        "configReadonly" : false,
+        "configRequired" : true,
+        "configOptions" : null,
+        "configMin" : null,
+        "configMax" : null,
+        "configMaxLength" : null
+      } ]
+    }
+  }, {
+    "group" : {
+      "id" : "favorite2",
+      "title" : "FavGroup2",
+      "description" : "FavGroup2Desc",
+      "enableWhenTrue" : null,
+      "entries" : [ {
+        "key" : "favorite2Name",
+        "valueType" : "string",
+        "defaultValue" : "To Home",
+        "configTitle" : "FavName",
+        "configPrompt" : null,
+        "configType" : "alphaNumeric",
+        "configError" : null,
+        "configHelpUrl" : null,
+        "configReadonly" : false,
+        "configRequired" : true,
+        "configOptions" : null,
+        "configMin" : null,
+        "configMax" : null,
+        "configMaxLength" : null
+      }, {
+        "key" : "favorite2Region",
+        "valueType" : "number",
+        "defaultValue" : 3,
+        "configTitle" : "FavRegion",
+        "configPrompt" : null,
+        "configType" : "list",
+        "configError" : null,
+        "configHelpUrl" : null,
+        "configReadonly" : false,
+        "configRequired" : true,
+        "configOptions" : [ {
+          "display" : "Region1",
+          "value" : 0
+        }, {
+          "display" : "Region2",
+          "value" : 1
+        }, {
+          "display" : "Region3",
+          "value" : 3
+        }, {
+          "display" : "Region4",
+          "value" : 2
+        }, {
+          "display" : "Region5",
+          "value" : 4
+        } ],
+        "configMin" : null,
+        "configMax" : null,
+        "configMaxLength" : null
+      }, {
+        "key" : "favorite2StopID",
+        "valueType" : "number",
+        "defaultValue" : 303171,
+        "configTitle" : "FavStopID",
+        "configPrompt" : null,
+        "configType" : "numeric",
+        "configError" : null,
+        "configHelpUrl" : null,
+        "configReadonly" : false,
+        "configRequired" : true,
+        "configOptions" : null,
+        "configMin" : null,
+        "configMax" : null,
+        "configMaxLength" : null
+      }, {
+        "key" : "favorite2LineID",
+        "valueType" : "number",
+        "defaultValue" : 4,
+        "configTitle" : "FavLineID",
+        "configPrompt" : null,
+        "configType" : "numeric",
+        "configError" : null,
+        "configHelpUrl" : null,
+        "configReadonly" : false,
+        "configRequired" : true,
+        "configOptions" : null,
+        "configMin" : null,
+        "configMax" : null,
+        "configMaxLength" : null
+      } ]
+    }
+  } ],
+  "supportsLiveValidation" : false,
+  "languages" : {
+    "valyrian" : {
+      "AppVersionTitle" : "Version",
+      "FavGroup2" : "Favorite 2",
+      "FavGroup1" : "Favorite 1",
+      "Region1" : "Antwerp",
+      "Region3" : "Flemish Brabant",
+      "Region2" : "East Flanders",
+      "FavGroup1Desc" : "Favorite 1",
+      "ApiKeyTitle" : "API Key",
+      "AppName" : "DeLijn Timetable",
+      "Region5" : "West Flanders",
+      "Region4" : "Limburg",
+      "RefreshTitle" : "Refresh Time (s)",
+      "FavName" : "Name",
+      "FavStopID" : "Stop ID",
+      "FavLineID" : "Line ID",
+      "FavRegion" : "Region",
+      "FavGroup2Desc" : "Favorite 2"
+    }
+  }
+}

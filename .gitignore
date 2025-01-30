@@ -1,3 +1,5 @@
-source/**
+source/gen/**
+source/internal-mir/**
+source/mir/**
 bin/**
 .vscode/**
